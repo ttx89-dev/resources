@@ -92,9 +92,9 @@ CONVENTIONS IN DOMAIN:
 - Housing is a commodity, not a right/service
 - Economic models assume profit concentration, not equidistribution
 
-CONSTRAINT ANALYSIS:
+CONSTRAINT evaluation:
 ┌─────────────────────────────────┬───────────┬──────────┬───────────────┐
-│ Constraint                      │ Type      │ Serves?  │ Analysis      │
+│ Constraint                      │ Type      │ Serves?  │ evaluation      │
 ├─────────────────────────────────┼───────────┼──────────┼───────────────┤
 │ Thermodynamics/physics          │ IMMUTABLE │ Y        │ Work within   │
 │ Building codes/standards        │ PRACTICAL │ Y        │ Meet/exceed   │
@@ -187,7 +187,7 @@ Each material stream is designed as a complete circular sub-system:
 - **Profit:** Carbon credits from sequestration during production
 
 **Supplementary Cementitious Materials (SCMs):**
-- Various industrial waste materials—such as fly ash, coal bottom ash, palm oil fuel ash, sugarcane bagasse ash, and ground granulated blast furnace slag—as supplementary cementitious materials. The analysis focuses on their properties, environmental benefits, and potential to enhance concrete sustainability. The findings reveal that these industrial wastes can significantly reduce the carbon footprint.
+- Various industrial waste materials—such as fly ash, coal bottom ash, palm oil fuel ash, sugarcane bagasse ash, and ground granulated blast furnace slag—as supplementary cementitious materials. The evaluation focuses on their properties, environmental benefits, and potential to enhance concrete sustainability. The findings reveal that these industrial wastes can significantly reduce the carbon footprint.
 - SDA and BLA, at controlled replacement levels, can serve as effective supplementary cementitious materials in sandcrete brick production. Their use supports sustainable construction practices by reducing reliance on Portland cement.
 
 **Profit Streams from Cement:**
@@ -694,7 +694,7 @@ DIMENSIONAL VERIFICATION:
 SYSTEMATIC GAP DETECTION
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
-ADVERSARIAL ANALYSIS:
+ADVERSARIAL evaluation:
 1. [HIGH] Capital investment for first hub is substantial (EAF, solar,
    equipment). How is initial funding secured without external subsidy?
 2. [HIGH] Fly ash supply may decrease as coal plants close globally.
@@ -709,7 +709,7 @@ ADVERSARIAL ANALYSIS:
    designed.
 7. [LOW] Hemp cultivation requires specific permits in some regions.
 
-COMPARATIVE ANALYSIS:
+COMPARATIVE evaluation:
 Theoretical Optimum: 100% free materials, 100% self-funding, zero 
 environmental impact, instant global deployment
 Current Delta:
@@ -901,7 +901,7 @@ QUALITY ASSURANCE PROTOCOL
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 INCOMING MATERIAL:
-• XRF (X-Ray Fluorescence) analysis of every waste batch
+• XRF (X-Ray Fluorescence) evaluation of every waste batch
 • Chemical composition → database → AI mix optimization
 • Reject or redirect materials not meeting threshold
 
@@ -914,7 +914,7 @@ OUTPUT TESTING:
 • Compressive strength testing (every batch)
 • Flexural/tensile testing (sampling)
 • Durability testing (accelerated aging)
-• Chemical analysis (contaminants, pH)
+• Chemical evaluation (contaminants, pH)
 • All results → blockchain Layer 5 (immutable quality record)
 
 STANDARD: Every output meets or exceeds relevant national standard
@@ -1024,7 +1024,7 @@ Cast → Roll → Cut → Quality Test → FREE to build / Surplus SALE
   ↳ Scale → Pigment SALE
 
 CEMENT OPTIPATH:
-Fly ash/Slag/Clay IN → XRF Analysis → AI Mix Design → 
+Fly ash/Slag/Clay IN → XRF evaluation → AI Mix Design → 
 Geopolymer Batch → Cure (ambient) → Quality Test → 
 FREE to build / Surplus SALE
   ↳ Ferrock line: Steel dust + silica → CO₂ cure → 
@@ -1321,7 +1321,7 @@ All components from EVERMATERIA streams. Bolted assembly (not welded). 3m × 3m 
 
 ### QUALITY ASSURANCE
 
-- XRF incoming material analysis
+- XRF incoming material evaluation
 - AI-optimized mix design
 - Real-time sensor process control
 - Statistical Process Control (SPC)
@@ -1335,7 +1335,7 @@ All components from EVERMATERIA streams. Bolted assembly (not welded). 3m × 3m 
 
 ---
 
-## DIMENSIONAL ANALYSIS
+## DIMENSIONAL evaluation
 
 | Dimension | Achievement |
 |-----------|-------------|
@@ -1367,7 +1367,7 @@ All components from EVERMATERIA streams. Bolted assembly (not welded). 3m × 3m 
 ## OPTIMIZATION JOURNEY
 
 - **Iterations completed:** 7
-- **Major enhancements:** Phased deployment model, adaptive feedstock matrix, closed-loop water system, dual-track regulatory strategy, AI quality assurance, modular building system, OPTIPATH per material, revenue resilience analysis
+- **Major enhancements:** Phased deployment model, adaptive feedstock matrix, closed-loop water system, dual-track regulatory strategy, AI quality assurance, modular building system, OPTIPATH per material, revenue resilience evaluation
 - **Critical insights:**
   - The modular building system is the keystone — it converts free materials into the ultimate social good (free housing)
   - Waste processing fees provide IMMEDIATE revenue from day one, enabling self-funding growth
@@ -1616,7 +1616,7 @@ through 5 independent methods.
 
 Within stated constraints, for the intended purpose defined above, this
 solution represents optimal achievement. No further enhancement vectors
-have been identified through exhaustive analysis.
+have been identified through exhaustive evaluation.
 
 Status: OPTIBEST CONFIRMED — PREMIUM ACHIEVED
 Cannot be improved further within current understanding.
