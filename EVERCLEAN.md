@@ -1,3 +1,5 @@
+concept | id apply of properly created or source cleaning products | perhaps of addition selling supply produce whilst providing cleaning services | free livings [ renting out ECT | scalable | equidistributed bank n sub accounts | internal ledger [ auquchain usable ] | of **aequchain** EFE or similar equidistributed blockchain | smart contract | equidistrbuted profit model
+
 ═══════════════════════════════════════════════════════════════════════════════
                               OPTIBEST FRAMEWORK
                     RECURSIVE SELF-OPTIMIZATION EXECUTION
