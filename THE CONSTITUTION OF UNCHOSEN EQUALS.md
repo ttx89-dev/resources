@@ -31,7 +31,7 @@ What follows is not a claim of certainty settled for all time. It is a founding 
 
 **§4. The Principle of Mandatory Consent.** No person's body, mind, labor, reproduction, or fundamental interests may be used, altered, or governed without their free, informed, and revocable consent, except under the narrow and independently reviewable protections described in Article V.
 
-**§5. The Principle of Responsible Freedom.** Every person is free to think, believe, create, associate, risk, fail, and explore — bounded only by the equal freedom and consent of others, never by the discomfort of the majority or the preferences of authority.
+**§5. The Principle of Responsible Freedom.** Every person is free to think, believe, create, associate, risk, fail, and explore — bounded only by the equal freedom and consent of others
 
 **§6. The Principle of Universal Enablement.** Every person is entitled, as a matter of structural right and not of charity, to the conditions that make a life worth living, provided in proportion to the civilization's accumulated capacity to provide them, and never withheld while that capacity goes unused.
 
