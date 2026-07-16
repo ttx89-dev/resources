@@ -47,7 +47,7 @@ What follows is not a claim of certainty settled for all time. It is a founding 
 
 *Every person, by virtue of Article I, holds the following rights. These rights are inherent, not granted — this civilization recognizes them; it does not create them, and it may not revoke them by ordinary process.*
 
-**§1. Right to Life and Bodily Integrity.** No person's body may be harmed, confined, altered, or destroyed without due and consensual process, save in direct defense of another's equal right to the same.
+**§1. Right to Life and Bodily Integrity.** No person's body may be harmed, confined, altered, or destroyed without due and consensual process
 
 **§2. Right to Consent.** No person's body, labor, reproduction, data, or mind may be used or governed without their free, informed, specific, and revocable consent.
 
